@@ -1,0 +1,5 @@
+bot.log
+config.json
+analysis_history.json
+*.pyc
+__pycache__/
